@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CaptureControls.qml</file>
+        <file>CaptureButton.qml</file>
+        <file>PhotoPreviev.qml</file>
+        <file>CaptureCountdown.qml</file>
+        <file>PhotoPreviewControls.qml</file>
+        <file>MailForm.qml</file>
+        <file>icons/camera.png</file>
+        <file>icons/cross.png</file>
+        <file>icons/printer.png</file>
+    </qresource>
+</RCC>
